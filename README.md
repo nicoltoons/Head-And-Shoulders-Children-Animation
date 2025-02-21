@@ -9,6 +9,13 @@ This is a journal of the making of head and shoulders. It's a frame by frame ani
 
 🌱 YouTube Video shorts will be and are currently being posted as production continues.
 
+#**2oth February 2025**
+🌱 ! completed the line animation for scene 1.
+
+
+#**21st February 2025**
+🌱 ! completed the line animation for scene 2.
+
 .
 ### 🖥 Skills
 
@@ -22,7 +29,7 @@ This is a journal of the making of head and shoulders. It's a frame by frame ani
 ### IMAGES AND ANIMATION
 ![Characters ](https://github.com/nicoltoons/headandshoulders/blob/main/character%20ref.png)
 
-![Scene 1 ](https://github.com/nicoltoons/headandshoulders/blob/main/boydanceloop.gif)
+![Scene 1 ](https://github.com/nicoltoons/headandshoulders/blob/main/headshoulders.gif)
 
 
 

@@ -19,6 +19,8 @@ This is a journal of the making of head and shoulders. It's a frame by frame ani
 #**22nd February 2025**
 🌱I added the female character from scene 3. I intend to make her hands bigger. 
 
+#**28th February 2025**
+🌱Had a health bleep for a few days. I continued with the animation and will go back to fix the scenes that are not as expressive as I want. I just want all the scenes drawn before I start with cleanup, effects etc. 
 .
 ### 🖥 Skills
 
